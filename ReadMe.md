@@ -24,7 +24,7 @@ billing-service : gestion des factures.
 5-billing-service
 6-gateway-service
 
-![Eureka](images/eureka.PNG)
-![Client](images/cl1.PNG)
-![Products](images/products.PNG)
-![Facture](images/fact1.PNG)
+![Eureka](image/Unknown-1.jpeg)
+![Client](image/Unknown-2.jpeg)
+![Products](image/Unknown-3.jpeg)
+![Facture](image/Unknown.jpeg)
